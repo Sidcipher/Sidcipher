@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm Sidheswar Mohrana</h1>
-<h3 align="center">Currently persuading my B.Tech in CSIT Branch at ITER, SOA University🏫🎓 !</h3>
+<h3 align="center">Currently pursuing my B.Tech in CSIT Branch at ITER, SOA University🏫🎓 !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaal-coder&label=Profile%20views&color=1c8b0e&style=flat" alt="kaal-coder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidcipher&label=Profile%20views&color=50b40e&style=flat" alt="sidcipher" /> </p>
 
 - 🔭 I’m currently working on **myself, obviously.**
 
@@ -17,6 +17,8 @@
 <a href="https://instagram.com/sidheswarmoharana" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/instagram.png" alt="__k.a.a.l.__" height="40" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 <!---
 Sidcipher/Sidcipher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
