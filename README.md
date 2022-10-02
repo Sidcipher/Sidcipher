@@ -20,5 +20,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
+
+<h3 align="left">My GitHub stats:</h3>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sidcipher&theme=highcontrast&show_icons=true" alt="Sidcipher" />
+
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Sidcipher&theme=highcontrast&hide_border=false" alt ="Sidcipher" />
+
 <!---Sidcipher/Sidcipher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
