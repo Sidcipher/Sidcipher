@@ -10,16 +10,17 @@
 - 📫 You can reach me on **moharanasidheswar2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Sidheswar2001" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/twitter.png" alt="_k_a_a_l" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/sidheswarmohrana03092001/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/linkedin.png" alt="kaushik-lakhani-08012001" height="40" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/people/kaushik-lakhani/100008225834590/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/facebook.png" alt="https://www.facebook.com/people/kaushik-lakhani/100008225834590/" height="40" width="40" /></a>
-<a href="https://instagram.com/sidheswarmoharana" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/instagram.png" alt="__k.a.a.l.__" height="40" width="40" /></a>
-</p>
+<p align="left">  
+
+<a href="https://linkedin.com/in/sidheswarmohrana03092001/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="kaushik-lakhani-08012001" height="40" width="40" /></a>
+<a href="https://twitter.com/Sidheswar2001" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="_k_a_a_l" height="40" width="40" /></a>
+<a href="https://instagram.com/sidheswarmoharana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="__k.a.a.l.__" height="40" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left">  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://devdocs.io/javascript/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a> <a href="https://figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></a> 
 
+ </p>
 
 <h3 align="left">My GitHub stats:</h3>
 
